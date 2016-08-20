@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a site to test different ideas regarding our Burroughs project,
   specifically working with visualization via D3.js, and trying to make it
   backend-less through Grunt, Jekyll, and GitHub Pages.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://remerjohnson.github.io/burroughs-visualization" # the base hostname & protocol for your site
+baseurl: "/burroughs-visualization" # the subpath of your site, e.g. /blog
+url: "http://remerjohnson.github.io/" # the base hostname & protocol for your site
 twitter_username: ejones82
 github_username:  remerjohnson
 
