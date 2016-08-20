@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   specifically working with visualization via D3.js, and trying to make it
   backend-less through Grunt, Jekyll, and GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://remerjohnson.github.io/burroughs-visualization" # the base hostname & protocol for your site
 twitter_username: ejones82
 github_username:  remerjohnson
 
